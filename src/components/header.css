@@ -6,6 +6,8 @@
     width: 100%;
     position: sticky;
     z-index: 999;
+    top: 0;
+    background-color: white;
 }
 .header__left{
     display: flex;

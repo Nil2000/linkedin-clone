@@ -1,7 +1,7 @@
 .sidebar{
     display: flex;
     flex-direction: column;
-    top: 80px;
+    top: 88px;
     position: sticky;
     flex: 0.2;
     text-align: center;
